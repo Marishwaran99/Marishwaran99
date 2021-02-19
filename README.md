@@ -1,4 +1,4 @@
-## Hi there, I'm [Marishwaran](https://Marishwaran99.github.io) 👋
+## Hi there, I'm [Marishwaran](https://marishwaran.me/Portfolio) 👋
 
 ## I'm a Developer!!
 
