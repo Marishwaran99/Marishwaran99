@@ -6,6 +6,7 @@
 - 🥅 Lifetime Goals: To learn more technology and work on new projects. 🚀
 - ⚡ Fun fact: I love to draw, listen music and Travel.
 
+## I also write blogs in my free time visit at [Marishwaran Blogs](https://blogs.marishwaran.tech/)
 ### Languages and Tools:
 
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
